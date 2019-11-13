@@ -16,7 +16,7 @@ I strive to keep my calendar up-to-date, so please grab time in it as needed. Al
 
 I aim to be in the office every day of the week unless I have a particularly light meeting day or something that requires me to stay close to home, in which case I may occasionally work remotely. I treat the ability to work from home as a privilege which I use sparingly since I live close to our largest office location and the team members I directly support, and face-to-face time is important. I update my calendar to reflect remote status, and I encourage you to do the same using [this handy feature in Pingboard](https://wpengine.pingboard.com/statuses).
 
-Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and to make use of other tools (like Slack!) instead, wherever possible. [Here's how you can help me in this.](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting).
+Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and to make use of other tools (like Slack!) instead, wherever possible. [Here's how you can help me in this.](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting)
 
 #### Communication
 The best way to reach me immediately is via Slack, which I have also enabled on my phone but which I have silenced overnight and occasionally on weekends unless I am on-call. (Family time is important!) In the event that you need to reach me urgently by phone, my number is listed in Pingboard.
@@ -26,7 +26,7 @@ When in-person communication is not possible, let's have a phone call via Lifesi
 Unless we're working together on something right then, you have my permission to ignore messages from me during the evenings and on weekends. Again, family time, and life away from the office, is important!
 
 #### 1:1s
-1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status meetings, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide.](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
+1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status meetings, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
 
 1) Am I learning?
 2) Am I growing?
@@ -58,8 +58,7 @@ I actively work on creating a rapport with all members of an organization, both 
 ### Feedback
 I value and take feedback very seriously, and I expect that you will treat it with the same care.
 
-I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you'd like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly you may use this [anonymous feedback form]
-(https://docs.google.com/forms/d/e/1FAIpQLSdHAmiYyybbrQ5J9dKtHgjwx1TK_GeYjieGyadFQPYkpQfVZA/viewform/) instead. (I see the responses to this form, but I do not collect email addresses.)
+I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you'd like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly you may use this [anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdHAmiYyybbrQ5J9dKtHgjwx1TK_GeYjieGyadFQPYkpQfVZA/viewform/) instead. (I see the responses to this form, but I do not collect email addresses.)
 
 If you are unsure what to say but you want to share feedback, you can also consider using the [start/stop/continue format](https://www.forbes.com/sites/groupthink/2016/02/02/start-stop-continue-tutorial/#3ab8b74a2798/) to refine your thoughts. (What should I start doing? What should I stop doing? What should I continue doing?)
 
