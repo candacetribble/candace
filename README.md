@@ -58,7 +58,7 @@ I actively work on creating a rapport with all members of an organization, both 
 ### Feedback
 I value and take feedback very seriously, and I expect that you will treat it with the same care.
 
-I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you'd like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly you may use this [anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdHAmiYyybbrQ5J9dKtHgjwx1TK_GeYjieGyadFQPYkpQfVZA/viewform/) instead. (I see the responses to this form, but I do not collect email addresses.)
+I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you'd like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly please feel free to reach out to one of my peers for help.
 
 If you are unsure what to say but you want to share feedback, you can also consider using the [start/stop/continue format](https://www.forbes.com/sites/groupthink/2016/02/02/start-stop-continue-tutorial/#3ab8b74a2798/) to refine your thoughts. (What should I start doing? What should I stop doing? What should I continue doing?)
 
