@@ -14,9 +14,9 @@ As an Engineering Manager, it is my job to:
 #### Meetings and Scheduling
 I strive to keep my calendar up-to-date, so please grab time in it as needed. Alternately, we do not always have to wait for a formal 1:1 to discuss something, and you are always welcome to reach out to me via Slack.
 
-I aim to be in the office every day of the week unless I have a particularly light meeting day or something that requires me to stay close to home, in which case I may occasionally work remotely. I treat the ability to work from home as a privilege which I use sparingly since I live close to our largest office location and the team members I directly support, and face-to-face time is important. I update my calendar to reflect remote status, and I encourage you to do the same using this handy feature in Pingboard.
+I aim to be in the office every day of the week unless I have a particularly light meeting day or something that requires me to stay close to home, in which case I may occasionally work remotely. I treat the ability to work from home as a privilege which I use sparingly since I live close to our largest office location and the team members I directly support, and face-to-face time is important. I update my calendar to reflect remote status, and I encourage you to do the same using [this handy feature in Pingboard](https://wpengine.pingboard.com/statuses).
 
-Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and to make use of other tools (like Slack!) instead, wherever possible. Here's how you can help me in this.
+Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and to make use of other tools (like Slack!) instead, wherever possible. [Here's how you can help me in this.](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting).
 
 #### Communication
 The best way to reach me immediately is via Slack, which I have also enabled on my phone but which I have silenced overnight and occasionally on weekends unless I am on-call. (Family time is important!) In the event that you need to reach me urgently by phone, my number is listed in Pingboard.
@@ -26,7 +26,13 @@ When in-person communication is not possible, let's have a phone call via Lifesi
 Unless we're working together on something right then, you have my permission to ignore messages from me during the evenings and on weekends. Again, family time, and life away from the office, is important!
 
 #### 1:1s
-1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status meetings, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with Heather's five questions or this guide.
+1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status meetings, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide.](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
+
+1) Am I learning?
+2) Am I growing?
+3) Am I having fun?
+4) Does my manager have my back?
+5) Do I have a plan for the future?
 
 You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will send you a calendar notification when changes occur.
 
@@ -42,7 +48,7 @@ When it comes to measuring work performance, I don't use the number of PRs you'v
 
 Furthermore, I will not measure your performance against other engineers. (We all come from different backgrounds and have different experiences, which is what makes us stronger as a team.) Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?"
 
-I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and the members of other teams within the company. Further, I encourage you to constantly give peer feedback, including routine high-fives in 15Five whenever someone else's efforts have positively impacted you. (Their managers see these high-fives, so it's helpful feedback for them as well!)
+I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and the members of other teams within the company. Further, I encourage you to constantly give peer feedback, including routine [high-fives in 15Five](https://wpengine.15five.com/dashboard/high_fives/) whenever someone else's efforts have positively impacted you. (Their managers see these high-fives, so it's helpful feedback for them as well!)
 
 I believe very strongly in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your scrum team, but also to R&D and the company as a whole? Perhaps you'll retire from WP Engine, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you've reached the end of what you can or want to do in this role, let's talk about it.
 
@@ -52,9 +58,10 @@ I actively work on creating a rapport with all members of an organization, both 
 ### Feedback
 I value and take feedback very seriously, and I expect that you will treat it with the same care.
 
-I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you'd like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly you may use this anonymous feedback form instead. (I see the responses to this form, but I do not collect email addresses.)
+I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you'd like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly you may use this [anonymous feedback form]
+(https://docs.google.com/forms/d/e/1FAIpQLSdHAmiYyybbrQ5J9dKtHgjwx1TK_GeYjieGyadFQPYkpQfVZA/viewform/) instead. (I see the responses to this form, but I do not collect email addresses.)
 
-If you are unsure what to say but you want to share feedback, you can also consider using the start/stop/continue format to refine your thoughts. (What should I start doing? What should I stop doing? What should I continue doing?)
+If you are unsure what to say but you want to share feedback, you can also consider using the [start/stop/continue format](https://www.forbes.com/sites/groupthink/2016/02/02/start-stop-continue-tutorial/#3ab8b74a2798/) to refine your thoughts. (What should I start doing? What should I stop doing? What should I continue doing?)
 
 
 ### My Expectations, Beliefs, and Values
@@ -87,7 +94,7 @@ I believe people are more important than process, but I am definitely a fan of p
 **Provide coverage.** I can run interference if you need help focusing. If you need a bad cop for an uncomfortable situation, I can help you.
 
 #### How can you help me?
-Show up. This doesn't mean "sit in your seat 9-5 Monday through Friday". This means, "be predictable and accountable". I ask you to keep your calendar current and let the team know in advance when you will be unavailable. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please plan on being a reliable team member to your peers. As an extension of this, I ask that you make your calendar public (but I invite you to mark meetings and appointments "private" as needed).
+Show up. This doesn't mean "sit in your seat 9-5 Monday through Friday". This means, "be predictable and accountable". I ask you to keep your calendar current and let the team know in advance when you will be unavailable. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please plan on being a reliable team member to your peers. As an extension of this, I ask that you make your calendar public (but I invite you to [mark meetings and appointments "private" as needed](https://www.lifewire.com/how-to-make-an-event-private-in-google-calendar-1172180/)).
 
 Do amazing work and show ownership. I believe we're operating at our best when you show ownership, follow through, and take pride in the quality and impact of your work. If something prevents you from doing amazing things, I want to know.
 
@@ -100,33 +107,34 @@ Ask questions and be curious. If you want to know something, just ask!
 ### About Me
 I'm an ambivert who leans toward introversion, but please don't confuse my occasional quietness with a lack of interest or engagement. I'm an internal thinker who is often quiet in large group settings or brainstorming sessions and who prefers to follow up directly when I have something I believe adds value to the conversation.
 
-I appreciate a good opportunity to laugh at something, even if that something is myself. 
+I appreciate [a good opportunity to laugh at something](https://www.youtube.com/watch?v=iDbyYGrswtg/), even if that something is myself. 
 
-If you also find this type of thing interesting (or at least to be a good conversation starter), you might like to know that I've been identified as an ISTJ, an Analyzing Implementor, and a Coordinating Observer.
+If you also find this type of thing interesting (or at least to be a good conversation starter), you might like to know that I've been identified as an [ISTJ](https://www.16personalities.com/istj-personality/), an [Analyzing Implementor](http://www.paragonresources.com/learning/wheel.pdf/), and a [Coordinating Observer](http://www.robpurfieldinsights.com/eight-types/the-observer-cool-blue//).
 
 #### My Top 5 Gallup CliftonStrengths
-**Futuristic**
+**[Futuristic](https://news.gallup.com/businessjournal/673/futuristic.aspx/)**
 
 I am fascinated and motivated by visions of the future and what could be. When the present is too frustrating, I conjure images of what the future might be like. My Deliberative top strength helps to balance this one by keeping me from wandering too far away from the present reality.
 
-**Learner**
+**[Learner](https://news.gallup.com/businessjournal/694/learner.aspx/)**
 
 I love to learn. I thrive in dynamic work environments where I'm expected to learn a lot in a short period of time. This doesn't mean I seek to become a subject matter expert. To me, the outcome of learning is less significant than the process of "getting there."
 
-**Analytical**
+**[Analytical](https://news.gallup.com/businessjournal/631/analytical.aspx/)**
 
 I am logical and disciplined, insisting that others' ideas be sound and demanding that they prove things to me. I pride myself on my ability to find patterns, analyze data, and research, and I often find comfort in this. 
 
-**Input**
+**[Input](https://news.gallup.com/businessjournal/688/input.aspx/)**
 
 I am inquisitive, and I collect information that I find interesting. I'm very interested in the variety and complexity of things around me, and I like to store away what I learn and experience. I take a lot of notes, I keep lists of the books I like, and I have a lot of bookmarked web pages for later reference.
 
-**Deliberative**
+**[Deliberative](https://news.gallup.com/businessjournal/658/deliberative.aspx/)**
 
 I am careful, vigilant, and private, and I know that the world is unpredictable. I draw risks out in the open in order to assess them, and I am typically not very effusive. This top strength works to balance my Futuristic top strength.
 
 
 
 ### Further Reading
-Is High Quality Software Worth The Cost? by Martin Fowler
-Turn the Ship Around! by L. David Marquet
+[Is High Quality Software Worth The Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html/) by Martin Fowler
+
+[Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y/) by L. David Marquet
