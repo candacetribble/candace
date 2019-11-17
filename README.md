@@ -1,4 +1,4 @@
-*Inspiration for this document originated with [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe).*
+*Inspiration for this document originated with [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe). Expect a few inaccessible links within this document if you're not currently my coworker.*
 
 ## Hi, I'm Candace.
 
@@ -23,7 +23,7 @@ The best way to reach me immediately is via Slack, which I have also enabled on 
 
 When in-person communication is not possible, let's have a phone call via Lifesize, Slack, or Hangouts. We're a distributed team, so we'll likely need to do this from time to time. 
 
-Unless we're working together on something right then, you have my permission to ignore messages from me during the evenings and on weekends. Again, family time, and life away from the office, is important!
+Unless we're working together on something urgent right then, you have my permission to ignore messages from me during the evenings and on weekends. Again, family time, and life away from the office, is important!
 
 #### 1:1s
 1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status meetings, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
