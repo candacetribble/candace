@@ -12,18 +12,18 @@ As an Engineering Manager, it is my job to:
 
 ### Logistics
 #### Meetings and Scheduling
-I strive to keep my calendar up-to-date, so please grab time in it as needed. Alternately, we do not always have to wait for a formal 1:1 to discuss something, and you are always welcome to reach out to me via Slack.
+I keep my calendar up-to-date, so please grab time in it as needed. Alternately, we do not always have to wait for a formal 1:1 to discuss something, and you are always welcome to reach out to me on Slack.
 
-I aim to be in the office every day of the week unless I have a particularly light meeting day or something that requires me to stay close to home, in which case I may occasionally work remotely. I treat the ability to work from home as a privilege which I use sparingly since I live close to our largest office location and the team members I directly support, and face-to-face time is important. I update my calendar to reflect remote status, and I encourage you to do the same using [this handy feature in Pingboard](https://wpengine.pingboard.com/statuses).
+I choose to be in the office whenever possible, unless I have a particularly light meeting day, I'm not feeling well and I don't want to risk sharing something, or something requires me to stay close to home, in which case I will work remotely. I update my calendar to reflect remote status, and I encourage you to do the same.
 
 Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and to make use of other tools (like Slack!) instead, wherever possible. [Here's how you can help me in this.](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting)
 
 #### Communication
-The best way to reach me immediately is via Slack, which I have also enabled on my phone but which I have silenced overnight and occasionally on weekends unless I am on-call. (Family time is important!) In the event that you need to reach me urgently by phone, my number is listed in Pingboard.
+The best way to reach me immediately is via Slack, which I have also enabled on my phone but which I have silenced overnight and occasionally on weekends unless I am on-call. (Personal and family time is important!) In the event that you need to reach me urgently by phone, my number is listed in our company directory.
 
-When in-person communication is not possible, let's have a phone call via Lifesize, Slack, or Hangouts. We're a distributed team, so we'll likely need to do this from time to time. 
+When in-person communication is not possible, let's have a phone call on Slack or Zoom. We're a distributed team, so we'll likely need to do this from time to time. 
 
-Unless we're working together on something urgent right then, you have my permission to ignore messages from me during the evenings and on weekends. Again, family time, and life away from the office, is important!
+Unless we're working together on something urgent right then, you have my permission to ignore messages from me during the evenings and on weekends. (That said, I'll also do my best not to send messages late at night or on weekends.) Again, family time, and life away from the office, is important!
 
 #### 1:1s
 1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status meetings, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
@@ -36,29 +36,29 @@ Unless we're working together on something urgent right then, you have my permis
 
 You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will send you a calendar notification when changes occur.
 
-What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be times when I am required to share information with others (EE, for example).
+What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be times when I am required to share information with others (HR, for example).
 
-I like to capture, at a high level, a bullet list of items we discuss in our 1:1s (excluding the more personal and/or sensitive topics). I use 15Five for this and to record actions items in a space where we can both see them, and I encourage you to do the same if you'd like to keep a list of topics you want to discuss in our next meeting.
+I like to capture, at a high level, a bullet list of items we discuss in our 1:1s (excluding the more personal and/or sensitive topics). I like to record action items in a space where we can both see them, and I encourage you to do the same if you'd like to keep a list of topics you want to discuss in our next meeting.
 
 
 ### Your Performance and Development
-You are responsible for your career. My job is to help you find opportunities and challenges that push you out of your comfort zone in order to grow. 
+You are responsible for progressing in your career. My job is to help you find opportunities and challenges that push you out of your comfort zone in order to grow.
 
 When it comes to measuring work performance, I don't use the number of PRs you've merged, the lines of code you've written, or the number of tests you've added. I do care about the quality of your output, and I will watch to see how you contribute to the team. Do you have a positive impact on those around you?
 
 Furthermore, I will not measure your performance against other engineers. (We all come from different backgrounds and have different experiences, which is what makes us stronger as a team.) Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?"
 
-I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and the members of other teams within the company. Further, I encourage you to constantly give peer feedback, including routine [high-fives in 15Five](https://wpengine.15five.com/dashboard/high_fives/) whenever someone else's efforts have positively impacted you. (Their managers see these high-fives, so it's helpful feedback for them as well!)
+Sometimes I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and the members of other teams within the company. Further, I encourage you to constantly give peer feedback whenever someone else's efforts have positively impacted you.
 
-I believe very strongly in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your scrum team, but also to R&D and the company as a whole? Perhaps you'll retire from WP Engine, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you've reached the end of what you can or want to do in this role, let's talk about it.
+I believe very strongly in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your squad or team, but also to engineering and the company as a whole? Perhaps you'll retire from this company, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you've reached the end of what you can or want to do in this role, let's talk about it. (I've been there!)
 
-I actively work on creating a rapport with all members of an organization, both in our department and in others. Sometimes when I'm feeling especially introverted this isn't easy, but it's critical to my, and our, success. I encourage you to do the same as much as possible, because building strong relationships is critical to understanding the problems we solve as a team, why we're solving these particular problems, and how we can best work together.
+I actively work on creating a rapport with all members of an organization, both in our department and in others. Sometimes when I'm feeling especially introverted this isn't easy, but it's critical to my, and our, success. I encourage you to do the same as much as possible (even if you're just seeking out opportunities to listen!), because building strong relationships is critical to understanding the problems we solve as a team, why we're solving these particular problems, and how we can best work together.
 
 
 ### Feedback
 I value and take feedback very seriously, and I expect that you will treat it with the same care.
 
-I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you'd like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly please feel free to reach out to one of my peers for help.
+I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you would like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly please feel free to reach out to one of my peers for help.
 
 If you are unsure what to say but you want to share feedback, you can also consider using the [start/stop/continue format](https://www.forbes.com/sites/groupthink/2016/02/02/start-stop-continue-tutorial/#3ab8b74a2798/) to refine your thoughts. (What should I start doing? What should I stop doing? What should I continue doing?)
 
@@ -72,7 +72,7 @@ I believe we should hold one another accountable and have one another's backs, e
 
 I believe we should assume positive intent. (When I'm stressed this is a weak spot of mine! Please help keep me on track when you see me slipping here.)
 
-I believe we should be willing to question decisions instead of making assumptions or just following along.
+I believe we should be willing to respectfully question decisions instead of making assumptions or just following along.
 
 I believe we should always continue learning and thinking about our place within the organization and within the world.
 
@@ -93,15 +93,15 @@ I believe people are more important than process, but I am definitely a fan of p
 **Provide coverage.** I can run interference if you need help focusing. If you need a bad cop for an uncomfortable situation, I can help you.
 
 #### How can you help me?
-Show up. This doesn't mean "sit in your seat 9-5 Monday through Friday". This means, "be predictable and accountable". I ask you to keep your calendar current and let the team know in advance when you will be unavailable. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please plan on being a reliable team member to your peers. As an extension of this, I ask that you make your calendar public (but I invite you to [mark meetings and appointments "private" as needed](https://www.lifewire.com/how-to-make-an-event-private-in-google-calendar-1172180/)).
+Show up. This doesn't mean "sit in your seat 8-5 Monday through Friday". This means, "be predictable and accountable" and be a reliable teammate to your peers. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please let us know by keeping your calendar current. As an extension of this, I ask that you make your calendar public (but I invite you to [mark meetings and appointments "private" as needed](https://www.lifewire.com/how-to-make-an-event-private-in-google-calendar-1172180/)).
 
-Do amazing work and show ownership. I believe we're operating at our best when you show ownership, follow through, and take pride in the quality and impact of your work. If something prevents you from doing amazing things, I want to know.
+Do amazing work and show ownership. I believe we're operating at our best when we show ownership, follow through, and take pride in the quality and impact of our work. If something prevents you from doing amazing things, I want to know.
 
 Disagree with me. Healthy debate is essential to getting to the best solutions. Don't be afraid to debate with me. Egos, mine included, have no place on the team. When I challenge your ideas it's in the spirit of making sure we arrive at the best possible solution, and I encourage you to challenge me the same way.
 
-Tell me when I messed up. I'm human, and I make mistakes. Sometimes I don't know that I messed up, so when I do please let me know.
+Tell me when I messed up. I'm human, and I make lots of mistakes! Sometimes I don't know that I messed up, so when I do please let me know.
 
-Ask questions and be curious. If you want to know something, just ask!
+Ask questions and be curious. If you want to know something, just ask! (This has the added benefit of encouraging others who are not naturally outspoken to feel more comfortable asking questions, as well.)
 
 ### About Me
 I'm an ambivert who leans toward introversion, but please don't confuse my occasional quietness with a lack of interest or engagement. I'm an internal thinker who is often quiet in large group settings or brainstorming sessions and who prefers to follow up directly when I have something I believe adds value to the conversation.
