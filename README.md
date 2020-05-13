@@ -108,7 +108,7 @@ I'm an ambivert who leans toward introversion, but please don't confuse my occas
 
 I appreciate [a good opportunity to laugh at something](https://www.youtube.com/watch?v=iDbyYGrswtg/), even if that something is myself. 
 
-If you also find this type of thing interesting (or at least to be a good conversation starter), you might like to know that I've been identified as an [ISTJ](https://www.16personalities.com/istj-personality/), an [Analyzing Implementor](https://www.paragonresources.com/learning/wheel.pdf), a [Coordinating Observer](https://www.robpurfieldinsights.com/eight-types/the-observer-cool-blue/), and a proud member of [Ravenclaw house](https://https://pottermore.fandom.com/wiki/Ravenclaw/.
+If you also find this type of thing interesting (or at least to be a good conversation starter), you might like to know that I've been identified as an [ISTJ](https://www.16personalities.com/istj-personality/), an [Analyzing Implementor](https://www.paragonresources.com/learning/wheel.pdf), a [Coordinating Observer](https://www.robpurfieldinsights.com/eight-types/the-observer-cool-blue/), and a proud member of [Ravenclaw house](https://https://pottermore.fandom.com/wiki/Ravenclaw/).
 
 #### My Top 5 Gallup CliftonStrengths
 **[Futuristic](https://news.gallup.com/businessjournal/673/futuristic.aspx/)**
