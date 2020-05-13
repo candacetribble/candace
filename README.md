@@ -42,7 +42,7 @@ I like to capture, at a high level, a bullet list of items we discuss in our 1:1
 
 
 ### Your Performance and Development
-You are responsible for progressing (or not!) in your career. My job is to help you find opportunities and challenges that stretch (without straining) you where and when appropriate, to allow for growth.
+You are responsible for progressing in your career. My job is to help you find opportunities and challenges that stretch (without straining) you where and when appropriate, to allow for growth.
 
 When it comes to measuring work performance, I don't use the number of PRs you've merged, the lines of code you've written, or the number of tests you've added. I do care about the quality of your output, and I will watch to see how you contribute to the team. Do you have a positive impact on those around you?
 
