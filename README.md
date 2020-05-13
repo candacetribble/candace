@@ -5,7 +5,7 @@
 ### My Job
 As an Engineering Manager, it is my job to:
 
-- Manage and develop well-functioning engineering teams
+- Support and help develop well-functioning engineering teams
 - Set context, share expectations, and build trust
 - Attract and retain world-class talent
 
@@ -36,23 +36,23 @@ Unless we're working together on something urgent right then, you have my permis
 
 You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will send you a calendar notification when changes occur.
 
-What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be times when I am required to share information with others (HR, for example).
+What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be rare times when I am required to share information with others (HR, for example).
 
 I like to capture, at a high level, a bullet list of items we discuss in our 1:1s (excluding the more personal and/or sensitive topics). I like to record action items in a space where we can both see them, and I encourage you to do the same if you'd like to keep a list of topics you want to discuss in our next meeting.
 
 
 ### Your Performance and Development
-You are responsible for progressing in your career. My job is to help you find opportunities and challenges that stretch (without straining) you where and when appropriate, to allow for growth.
+You are responsible for progressing in your career. My job is to help you find opportunities and challenges that stretch--without straining--you where and when appropriate, to allow for growth.
 
 When it comes to measuring work performance, I don't use the number of PRs you've merged, the lines of code you've written, or the number of tests you've added. I do care about the quality of your output, and I will watch to see how you contribute to the team. Do you have a positive impact on those around you?
 
-Furthermore, I will not measure your performance against other engineers. (We all come from different backgrounds and have different experiences, which is what makes us stronger as a team.) Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?"
+Furthermore, I will not measure your performance against other engineers. We all come from different backgrounds and have different experiences, which is what makes us stronger as a team. Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?"
 
 Sometimes I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and the members of other teams within the company. Further, I encourage you to constantly give peer feedback whenever someone else's efforts have positively impacted you.
 
-I believe very strongly in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your squad or team, but also to engineering and the company as a whole? Perhaps you'll retire from this company, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you've reached the end of what you can or want to do in this role, let's talk about it. (I've been there!)
+I believe very strongly in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your squad or team, but also to engineering and the company as a whole? Perhaps you'll retire from this company, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you've reached the end of what you can or want to do in this role, let's talk about it. (I have been there, a few times!)
 
-I actively work on creating a rapport with all members of an organization, both in our department and in others. Sometimes when I'm feeling especially introverted this isn't easy, but it's critical to my, and our, success. I encourage you to do the same as much as possible (even if you're just seeking out opportunities to listen!), because building strong relationships is critical to understanding the problems we solve as a team, why we're solving these particular problems, and how we can best work together.
+I actively work to build rapport with all members of an organization, both in our department and in others. This is critical to my, and our, success, and I do generally enjoy it. I encourage you to do the same as much as possible (even if you're just seeking out opportunities to listen within your team!), because building strong relationships is critical to understanding the problems we solve as a team, why we're solving these particular problems, and how we can best work together. 
 
 
 ### Feedback
@@ -93,15 +93,15 @@ I believe people are more important than process, but I am definitely a fan of p
 **Provide coverage.** I can run interference if you need help focusing. If you need a bad cop for an uncomfortable situation, I can help you.
 
 #### How can you help me?
-Show up. This doesn't mean "sit in your seat 8-5 Monday through Friday". This means, "be predictable and accountable" and be a reliable teammate to your peers. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please let us know by keeping your calendar current. As an extension of this, I ask that you make your calendar public (but I invite you to [mark meetings and appointments "private" as needed](https://www.lifewire.com/how-to-make-an-event-private-in-google-calendar-1172180/)).
+**Show up.** This doesn't mean "sit in your seat 8-5 Monday through Friday". This means, "be predictable and accountable" and be a reliable teammate to your peers. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please let us know by keeping your calendar current. As an extension of this, I ask that you make your calendar public (but I invite you to [mark meetings and appointments "private" as needed](https://www.lifewire.com/how-to-make-an-event-private-in-google-calendar-1172180/)).
 
-Do amazing work and show ownership. I believe we're operating at our best when we show ownership, follow through, and take pride in the quality and impact of our work. If something prevents you from doing amazing things, I want to know.
+**Do amazing work and show ownership.** I believe we're operating at our best when we show ownership, follow through, and take pride in the quality and impact of our work. If something prevents you from doing amazing things, I want to know.
 
-Disagree with me. Healthy debate is essential to getting to the best solutions. Don't be afraid to debate with me. Egos, mine included, have no place on the team. When I challenge your ideas it's in the spirit of making sure we arrive at the best possible solution, and I encourage you to challenge me the same way.
+**Disagree when you need to.** Healthy debate is essential to getting to the best solutions. Don't be afraid to debate with me. Egos, mine included, have no place on the team. When I challenge your ideas it's in the spirit of making sure we arrive at the best possible solution, and I encourage you to challenge me the same way.
 
-Tell me when I messed up. I'm human, and I make lots of mistakes! Sometimes I don't know that I messed up, so when I do please let me know.
+**Tell me when I messed up.** I'm human, and I make lots of mistakes! Sometimes I don't know that I messed up, so when I do please let me know.
 
-Ask questions and be curious. If you want to know something, just ask! (This has the added benefit of encouraging others who are not naturally outspoken to feel more comfortable asking questions, as well.)
+**Ask questions and be curious.** If you want to know something, just ask! In a group setting has the added benefit of encouraging others who are not naturally outspoken to feel more comfortable asking questions, as well.
 
 ### About Me
 I'm an ambivert who leans toward introversion, but please don't confuse my occasional quietness with a lack of interest or engagement. I'm an internal thinker who is often quiet in large group settings or brainstorming sessions and who prefers to follow up directly when I have something I believe adds value to the conversation.
