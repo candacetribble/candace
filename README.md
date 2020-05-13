@@ -117,7 +117,7 @@ I am fascinated and motivated by visions of the future and what could be. When t
 
 **[Learner](https://news.gallup.com/businessjournal/694/learner.aspx/)**
 
-I love to learn. I thrive in dynamic work environments where I'm expected to learn a lot in a short period of time. This doesn't mean I seek to become a subject matter expert. To me, the outcome of learning is less significant than the process of "getting there."
+I love to learn. I thrive in dynamic work environments where I'm expected to learn a lot in a short period of time. This doesn't mean I seek to become a subject matter expert. I want to continuously improve myself, and I am thrilled when I get a chance to dive into a new topic then reflect later on what I learned.
 
 **[Analytical](https://news.gallup.com/businessjournal/631/analytical.aspx/)**
 
