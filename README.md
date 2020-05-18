@@ -16,7 +16,7 @@ I keep my calendar up-to-date, so please grab time in it as needed. Alternately,
 
 I choose to be in the office whenever possible, unless I have a particularly light meeting day, I'm not feeling well and I don't want to risk sharing something, or something requires me to stay close to home, in which case I will work remotely. I update my calendar to reflect remote status, and I encourage you to do the same.
 
-Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and to make use of other tools (like Slack!) instead, wherever possible. [Here's how you can help me in this.](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting)
+Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and what we do with that time. [Here's how you can help me in this,](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting) and [here are some more great tips](https://medium.com/@ryanjrwiggins/on-meetings-a-short-guide-for-new-leaders-71dfb9e6a1ea).
 
 #### Communication
 The best way to reach me immediately is via Slack, which I have also enabled on my phone but which I have silenced overnight and occasionally on weekends unless I am on-call. (Personal and family time is important!) In the event that you need to reach me urgently by phone, my number is listed in our company directory.
