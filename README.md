@@ -136,4 +136,4 @@ I am careful, vigilant, and private, and I know that the world is unpredictable.
 ### Further Reading
 [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y/) by L. David Marquet
 
-[Is High Quality Software Worth The Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html/) by Martin Fowler
+[Is High Quality Software Worth The Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) by Martin Fowler
