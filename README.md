@@ -90,7 +90,7 @@ I believe people are more important than process, but I am definitely a fan of p
 
 **Celebrate!** It's my job to take hits for the team and to celebrate you when things go well. If you are not comfortable self-promoting and you'd like to get the word out about something, let me know. I want to see you do well and receive recognition for your work, and helping you get proper visibility for the hard work you do is my favorite part of my job!
 
-**Provide coverage.** I can run interference if you need help focusing. If you need a bad cop for an uncomfortable situation, I can help you.
+**Provide coverage.** I can run interference if you need help focusing. If you need support for an uncomfortable situation, I can help you.
 
 #### How can you help me?
 **Show up.** This doesn't mean "sit in your seat 8-5 Monday through Friday". This means, "be predictable and accountable" and be a reliable teammate to your peers. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please let us know by keeping your calendar current. As an extension of this, I ask that you make your calendar public (but I invite you to [mark meetings and appointments "private" as needed](https://www.lifewire.com/how-to-make-an-event-private-in-google-calendar-1172180/)).
@@ -101,7 +101,7 @@ I believe people are more important than process, but I am definitely a fan of p
 
 **Tell me when I messed up.** I'm human, and I make lots of mistakes! Sometimes I don't know that I messed up, so when I do please let me know.
 
-**Ask questions and be curious.** If you want to know something, just ask! In a group setting has the added benefit of encouraging others who are not naturally outspoken to feel more comfortable asking questions, as well.
+**Ask questions and be curious.** If you want to know something, just ask! In a group setting this has the added benefit of encouraging others who are not naturally outspoken to feel more comfortable asking questions, as well.
 
 ### About Me
 I'm an ambivert who leans toward introversion, but please don't confuse my occasional quietness with a lack of interest or engagement. I'm an internal thinker who is often quiet in large group settings or brainstorming sessions and who prefers to follow up directly when I have something I believe adds value to the conversation.
