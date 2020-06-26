@@ -23,10 +23,10 @@ The best way to reach me immediately is via Slack, which I have also enabled on 
 
 When in-person communication is not possible, let's have a phone call on Slack or Zoom. We're a distributed team, so we'll likely need to do this from time to time. 
 
-Unless we're working together on something urgent right then, you have my permission to ignore messages from me during the evenings and on weekends. (That said, I'll also do my best not to send messages late at night or on weekends.) Again, family time, and life away from the office, is important!
+When I am on-call I expect to remain near my phone and laptop, and I expect the same of you.
 
 #### 1:1s
-1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status meetings, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
+1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status reports, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
 
 1) Am I learning?
 2) Am I growing?
@@ -34,23 +34,23 @@ Unless we're working together on something urgent right then, you have my permis
 4) Does my manager have my back?
 5) Do I have a plan for the future?
 
-You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will send you a calendar notification when changes occur.
+You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will let you know why I made an update.
 
 What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be rare times when I am required to share information with others (HR, for example).
 
-I like to capture, at a high level, a bullet list of items we discuss in our 1:1s (excluding the more personal and/or sensitive topics). I like to record action items in a space where we can both see them, and I encourage you to do the same if you'd like to keep a list of topics you want to discuss in our next meeting.
+I like to capture, at a high level, a bullet list of items we discuss in our 1:1s (excluding the more personal and/or sensitive topics). I like to record action items in a space where we can both see them, and I encourage you to do the same if you would like to keep a list of topics you want to discuss in our next meeting.
 
 
 ### Your Performance and Development
-You are responsible for progressing in your career. My job is to help you find opportunities and challenges that stretch--without straining--you where and when appropriate, to allow for growth.
+You are responsible for progressing in your career. My job is to help you find opportunities and challenges that stretch--without straining--you where and when appropriate, to allow for growth. (Note: "Growth" doesn't necessarily mean "promotion" unless you want it to.)
 
 When it comes to measuring work performance, I don't use the number of PRs you've merged, the lines of code you've written, or the number of tests you've added. I do care about the quality of your output, and I will watch to see how you contribute to the team. Do you have a positive impact on those around you?
 
-Furthermore, I will not measure your performance against other engineers. We all come from different backgrounds and have different experiences, which is what makes us stronger as a team. Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?"
+Furthermore, I will not measure your performance against other team members. We all come from different backgrounds and have different experiences, which is what makes us stronger as a team. Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?" We all take different paths, and I want to be respectful of this.
 
 Sometimes I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and the members of other teams within the company. Further, I encourage you to constantly give peer feedback whenever someone else's efforts have positively impacted you.
 
-I believe very strongly in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your squad or team, but also to engineering and the company as a whole? Perhaps you'll retire from this company, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you've reached the end of what you can or want to do in this role, let's talk about it. (I have been there, a few times!)
+I believe in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your squad or team, but also to engineering and the company as a whole? Perhaps you'll retire from this company, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you have reached the end of what you can or want to do in this role, let's talk about it. (I have been there, a few times!)
 
 I actively work to build rapport with all members of an organization, both in our department and in others. This is critical to my, and our, success, and I do generally enjoy it. I encourage you to do the same as much as possible (even if you're just seeking out opportunities to listen within your team!), because building strong relationships is critical to understanding the problems we solve as a team, why we're solving these particular problems, and how we can best work together. 
 
@@ -110,6 +110,7 @@ I appreciate [a good opportunity to laugh at something](https://www.youtube.com/
 
 If you also find this type of thing interesting (or at least to be a good conversation starter), you might like to know that I've been identified as an [ISTJ](https://www.16personalities.com/istj-personality/), an [Analyzing Implementor](https://www.paragonresources.com/learning/wheel.pdf), and a [Coordinating Observer](https://www.robpurfieldinsights.com/eight-types/the-observer-cool-blue/).
 
+
 #### My Top 5 Gallup CliftonStrengths
 **[Futuristic](https://news.gallup.com/businessjournal/673/futuristic.aspx/)**
 
@@ -130,7 +131,6 @@ I am inquisitive, and I collect information that I find interesting. I'm very in
 **[Deliberative](https://news.gallup.com/businessjournal/658/deliberative.aspx/)**
 
 I am careful, vigilant, and private, and I know that the world is unpredictable. I draw risks out in the open in order to assess them, and I am typically not very effusive. This top strength works to balance my Futuristic top strength.
-
 
 
 ### Further Reading
