@@ -36,7 +36,7 @@ When I am on-call I expect to remain near my phone and laptop, and I expect the 
 
 You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will let you know why I made an update.
 
-What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be rare times when I am required to share information with others (HR, for example).
+What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be rare times when I am required to share information with others (HR, for example). I will let you know when I would like to share with others something we have discussed.
 
 I like to capture, at a high level, a bullet list of items we discuss in our 1:1s (excluding the more personal and/or sensitive topics). I like to record action items in a space where we can both see them, and I encourage you to do the same if you would like to keep a list of topics you want to discuss in our next meeting.
 
@@ -44,13 +44,13 @@ I like to capture, at a high level, a bullet list of items we discuss in our 1:1
 ### Your Performance and Development
 You are responsible for progressing in your career. My job is to help you find opportunities and challenges that stretch--without straining--you where and when appropriate, to allow for growth. (Note: "Growth" doesn't necessarily mean "promotion" unless you want it to.)
 
-When it comes to measuring work performance, I don't use the number of PRs you've merged, the lines of code you've written, or the number of tests you've added. I do care about the quality of your output, and I will watch to see how you contribute to the team. Do you have a positive impact on those around you?
+When it comes to measuring work performance, I don't use the number of PRs you've merged, the lines of code you've written, or the number of tests you've added. I do care about the quality of your output, and I will observe how you contribute to the team. Do you have a positive impact on those around you?
 
 Furthermore, I will not measure your performance against other team members. We all come from different backgrounds and have different experiences, which is what makes us stronger as a team. Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?" We all take different paths, and I want to be respectful of this.
 
-Sometimes I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and the members of other teams within the company. Further, I encourage you to constantly give peer feedback whenever someone else's efforts have positively impacted you.
+Sometimes I have limited opportunities to directly observe you and your work, so in addition to my observations I will rely on peer feedback to evaluate your impact on your team and other teams within the company. Further, I encourage you to constantly give peer feedback whenever someone else's efforts have positively impacted you.
 
-I believe in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your squad or team, but also to engineering and the company as a whole? Perhaps you'll retire from this company, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you have reached the end of what you can or want to do in this role, let's talk about it. (I have been there, a few times!)
+I believe in leaving a thing better than it was when I found it, and I will encourage you to do the same. How are you contributing not only to your team, but also to our department and the company as a whole? Perhaps you'll retire from this company, and perhaps you'll retire from another company; for the time that you're in your current role, I expect you to be working to improve yourself and our team. If you have reached the end of what you can or want to do in this role or with this company, let's talk about it. (I have been there, a few times! I will support you however I can.)
 
 I actively work to build rapport with all members of an organization, both in our department and in others. This is critical to my, and our, success, and I do generally enjoy it. I encourage you to do the same as much as possible (even if you're just seeking out opportunities to listen within your team!), because building strong relationships is critical to understanding the problems we solve as a team, why we're solving these particular problems, and how we can best work together. 
 
@@ -58,12 +58,14 @@ I actively work to build rapport with all members of an organization, both in ou
 ### Feedback
 I value and take feedback very seriously, and I expect that you will treat it with the same care.
 
-I believe open, honest feedback is critical for the success and growth of our team and of myself. If you have something you would like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly please feel free to reach out to one of my peers for help.
+I believe open, candid feedback is critical for the success and growth of our team and of myself. If you have something you would like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly please feel free to reach out to one of my peers for help.
 
 If you are unsure what to say but you want to share feedback, you can also consider using the [start/stop/continue format](https://www.forbes.com/sites/groupthink/2016/02/02/start-stop-continue-tutorial/#3ab8b74a2798/) to refine your thoughts. (What should I start doing? What should I stop doing? What should I continue doing?)
 
 
 ### My Expectations, Beliefs, and Values
+I highly value honesty and integrity. 
+
 I value self-organizing teams. As such, I expect contributors to take responsibility for their own work. 
 
 I think managers should be servant leaders, rather than bosses who command and control. Just as you should expect this of me, I also expect this of the people to whom I report.
@@ -76,32 +78,30 @@ I believe we should be willing to respectfully question decisions instead of mak
 
 I believe we should always continue learning and thinking about our place within the organization and within the world.
 
-I highly value honesty and integrity. 
-
-I believe people are more important than process, but I am definitely a fan of process that works for the people involved. (Was that confusing enough?)
+I believe people are more important than process, but I am a big fan of process that works for the people involved. (Was that confusing enough?)
 
 
 
 ### How We Can Help One Another
 #### How can I help you?
-**Provide context.** A lot of my time at work is spent in meetings, filtering and sharing information from different areas within the company. I aim to be as transparent as possible when sharing this information, without overwhelming you with it.
-
-**Supply an outside perspective.** I don't write code day-to-day, but I have worked as a quality engineer and I will be close to the projects you work on, to help provide informed opinions or share my thoughts. Please feel free to use me as a sounding board for your ideas.
+**Provide context.** A significant amount of my time at work is spent in meetings, filtering and sharing information from different areas within the company. I aim to be as transparent as possible when sharing this information, without overwhelming you with it.
 
 **Celebrate!** It's my job to take hits for the team and to celebrate you when things go well. If you are not comfortable self-promoting and you'd like to get the word out about something, let me know. I want to see you do well and receive recognition for your work, and helping you get proper visibility for the hard work you do is my favorite part of my job!
 
 **Provide coverage.** I can run interference if you need help focusing. If you need support for an uncomfortable situation, I can help you.
 
+**Supply an outside perspective.** I don't write code day-to-day, but I have worked as a software quality engineer and I will be close to the projects you work on, to help provide informed opinions or share my thoughts. Please feel free to use me as a sounding board for your ideas.
+
 #### How can you help me?
 **Show up.** This doesn't mean "sit in your seat 8-5 Monday through Friday". This means, "be predictable and accountable" and be a reliable teammate to your peers. Sometimes events outside our control interfere with our schedules, but when you can plan ahead, please let us know by keeping your calendar current. As an extension of this, I ask that you make your calendar public (but I invite you to [mark meetings and appointments "private" as needed](https://www.lifewire.com/how-to-make-an-event-private-in-google-calendar-1172180/)).
 
-**Do amazing work and show ownership.** I believe we're operating at our best when we show ownership, follow through, and take pride in the quality and impact of our work. If something prevents you from doing amazing things, I want to know.
+**Do amazing work and show ownership.** I believe we're operating at our best when we show ownership, follow through, and take pride in the quality and impact of our work. If something prevents you from doing work that you are proud of, I want to know.
 
 **Disagree when you need to.** Healthy debate is essential to getting to the best solutions. Don't be afraid to debate with me. Egos, mine included, have no place on the team. When I challenge your ideas it's in the spirit of making sure we arrive at the best possible solution, and I encourage you to challenge me the same way.
 
 **Tell me when I messed up.** I'm human, and I make lots of mistakes! Sometimes I don't know that I messed up, so when I do please let me know.
 
-**Ask questions and be curious.** If you want to know something, just ask! In a group setting this has the added benefit of encouraging others who are not naturally outspoken to feel more comfortable asking questions, as well.
+**Ask questions and be curious.** If you want to know something, just ask. In a group setting this has the added benefit of encouraging others who are not naturally outspoken to feel more comfortable asking questions, as well.
 
 ### About Me
 I'm an ambivert who leans toward introversion, but please don't confuse my occasional quietness with a lack of interest or engagement. I'm an internal thinker who is often quiet in large group settings or brainstorming sessions and who prefers to follow up directly when I have something I believe adds value to the conversation.
@@ -126,7 +126,7 @@ I am logical and disciplined, insisting that others' ideas be sound and demandin
 
 **[Input](https://news.gallup.com/businessjournal/688/input.aspx/)**
 
-I am inquisitive, and I collect information that I find interesting. I'm very interested in the variety and complexity of things around me, and I like to store away what I learn and experience. I take a lot of notes, I keep lists of the books I like, and I have a lot of bookmarked web pages for later reference.
+I am inquisitive, and I collect information that I find interesting. I'm very interested in the variety and complexity of things around me, and I like to store away what I learn and experience. I take a lot of notes, I keep lists of the books I like, and I bookmark a lot of Web pages for later reference.
 
 **[Deliberative](https://news.gallup.com/businessjournal/658/deliberative.aspx/)**
 
