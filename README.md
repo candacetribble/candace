@@ -3,11 +3,11 @@
 ## Hi, I'm Candace.
 
 ### My Job
-As an Engineering Manager, it is my job to:
+As a manager, it is my job to:
 
-- Support and help develop well-functioning engineering teams
+- Support and help develop well-functioning teams
 - Set context, share expectations, and build trust
-- Attract and retain world-class talent
+- Attract and retain world-class talent, adding to the diversity of perspectives represented in the team
 
 
 ### Logistics
