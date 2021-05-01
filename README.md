@@ -136,4 +136,4 @@ I am careful, vigilant, and private, and I know that the world is unpredictable.
 ### Further Reading
 [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y/) by L. David Marquet
 
-[Your Team is Not "Them"] (https://css-tricks.com/your-team-is-not-them/) by Sarah Drasner
+[Your Team is Not "Them"](https://css-tricks.com/your-team-is-not-them/) by Sarah Drasner
