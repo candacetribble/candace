@@ -14,7 +14,7 @@ As a manager, it is my job to:
 #### Meetings and Scheduling
 I keep my calendar up-to-date, so please grab time in it as needed. Alternately, we do not always have to wait for a formal 1:1 to discuss something, and you are always welcome to reach out to me on Slack.
 
-If I am not in the office I will update my calendar to reflect my remote status, and I encourage you to do the same.
+If I am unavailable I will update my calendar to reflect my status, and I ask that you do the same.
 
 Meetings can easily take over our calendars if we let them. I'd like us to be deliberate about why and when we call them and what we do with that time. [Here's how you can help me in this,](https://www.nytimes.com/guides/business/how-to-run-an-effective-meeting) and [here are some more great tips](https://medium.com/@ryanjrwiggins/on-meetings-a-short-guide-for-new-leaders-71dfb9e6a1ea).
 
