@@ -5,7 +5,7 @@
 ### My Job
 As a manager, it is my job to:
 
-- Support and help develop well-functioning teams
+- Support and help develop high-functioning teams
 - Set context, share expectations, and build trust
 - Attract and retain world-class talent, adding to the diversity of perspectives represented in the team
 
@@ -21,7 +21,7 @@ Meetings can easily take over our calendars if we let them. I'd like us to be de
 #### Communication
 The best way to reach me immediately is via Slack, which I have also enabled on my phone but which I have silenced overnight and occasionally on weekends unless I am on-call. (Personal and family time is important!) In the event that you need to reach me urgently by phone, my number is listed in our company directory.
 
-When in-person communication is not possible, let's have a phone call on Slack or Zoom. We're a distributed team, so we'll likely need to do this from time to time. 
+Sometimes we will chat in-person, and sometimes we will need to rely on phone or video calls instead. (We are a part of a distributed team.) Let's find a communication form that we feel comfortable with.
 
 When I am on-call I expect to remain near my phone and laptop, and I expect the same of you.
 
@@ -36,7 +36,7 @@ When I am on-call I expect to remain near my phone and laptop, and I expect the 
 
 You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will let you know why I made an update.
 
-What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be rare times when I am required to share information with others (HR, for example). I will let you know when I would like to share with others something we have discussed.
+What you share with me during 1:1s is held in confidence but it is not confidential. This means that, while I will always do my best to keep feedback and our discussions anonymous, there may be rare times when I am required to share information with others (People Operations, for example). I will let you know when I would like to share with others something we have discussed.
 
 I like to capture, at a high level, a bullet list of items we discuss in our 1:1s (excluding the more personal and/or sensitive topics). I like to record action items in a space where we can both see them, and I encourage you to do the same if you would like to keep a list of topics you want to discuss in our next meeting.
 
@@ -44,7 +44,7 @@ I like to capture, at a high level, a bullet list of items we discuss in our 1:1
 ### Your Performance and Development
 You are responsible for progressing in your career. My job is to help you find opportunities and challenges that stretch--without straining--you where and when appropriate, to allow for growth. (Note: "Growth" doesn't necessarily mean "promotion" unless you want it to.)
 
-When it comes to measuring work performance, I don't use the number of PRs you've merged, the lines of code you've written, or the number of tests you've added. I do care about the quality of your output, and I will observe how you contribute to the team. Do you have a positive impact on those around you?
+When it comes to measuring work performance, I believe in assessing outcomes instead of work quantity. I care about the quality of your work, and I will observe how you contribute to the team. Do you have a positive impact on this organization and those around you?
 
 Furthermore, I will not measure your performance against other team members. We all come from different backgrounds and have different experiences, which is what makes us stronger as a team. Instead, I will measure your progress against your past self and ask, "Is this person learning and seeking to improve?" We all take different paths, and I want to be respectful of this.
 
