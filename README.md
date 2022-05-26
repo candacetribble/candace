@@ -26,13 +26,18 @@ Sometimes we will chat in-person, and sometimes we will need to rely on phone or
 When I am on-call I expect to remain near my phone and laptop, and I expect the same of you.
 
 #### 1:1s
-1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status reports, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [Heather Brunner's five questions](https://growthhackers.com/amas/live-may-24-ama-with-heather-j-brunner-investor-mentor-director-and-ceo-of-wp-engine) (below) or [this guide](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
+1:1 meetings are a dedicated, regular time for us to meet and discuss whatever you'd like. They are not intended to be status reports, unless that's the direction you'd like to take them. If you're uncertain what to discuss we could start with [these questions](https://randsinrepose.com/archives/shields-down/) (below) or [this guide](https://getlighthouse.com/blog/effective-1-on-1-meetings/).
 
-1) Am I learning?
-2) Am I growing?
-3) Am I having fun?
-4) Does my manager have my back?
-5) Do I have a plan for the future?
+(1) Am I happy with my job?
+(2) Do I like my manager? My team?
+(3) Is this project I’m working on fulfilling?
+(4) Am I learning?
+(5) Am I respected?
+(6) Am I growing?
+(7) Do I feel fairly compensated?
+(8) Is this company/team going anywhere?
+(9) Do I believe in the vision?
+(10) Do I trust the leaders?
 
 You, and therefore our 1:1 times, are important to me. I will do my best to make sure these meetings are not rescheduled, but in the event that I do need to move them I will let you know why I made an update.
 
