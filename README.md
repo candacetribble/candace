@@ -61,9 +61,11 @@ I actively work to build rapport with all members of an organization, both in ou
 
 
 ### Feedback
-I value and take feedback very seriously, and I expect that you will treat it with the same care. I believe open, candid feedback is critical for the success and growth of our team and of myself. If you have something you would like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I believe nondescript praise can be dangerous, and instead we should strive to provide feedback that is specific and constructive. I prefer to receive feedback directly, but if you do not feel safe providing it directly please feel free to reach out to one of my peers for help.
+I value and take feedback very seriously, and I expect that you will treat it with the same care. I believe open, candid feedback is critical for the success and growth of our team and of myself. If you have something you would like to share about myself, a peer, a product, our department, or the company, please feel free to do so. I believe you should feel safe giving feedback, and I will not punish someone for giving it. I prefer to receive feedback directly, but if you do not feel safe providing it directly please feel free to reach out to one of my peers or my manager for help.
 
 If you are unsure what to say but you want to share feedback, you can also consider using the [start/stop/continue format](https://www.forbes.com/sites/groupthink/2016/02/02/start-stop-continue-tutorial/#3ab8b74a2798/) to refine your thoughts. (What should I start doing? What should I stop doing? What should I continue doing?)
+
+I believe nondescript praise can be dangerous, and instead we should strive to provide feedback that is specific and constructive. I will strive to always do this for you.
 
 
 ### My Expectations, Beliefs, and Values
